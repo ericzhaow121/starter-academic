@@ -34,7 +34,7 @@ education:
       year: ""
     - course: Master of Information Technology (with Distinction)
       institution: The University of Melbourne, Australia
-      year: -1
+      year: ""
     - course: Bachelor of Public Relations, Communication and Media Studies
       institution: Sun Yat-sen University, China
       year: ""
