@@ -24,9 +24,7 @@ authors:
   - Jenny Waycott
 author_notes: []
 publication: In *32nd Australian Conference on Human-Computer Interaction*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: In *OzCHI '20*
