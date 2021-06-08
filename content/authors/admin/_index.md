@@ -1,4 +1,5 @@
 ---
+title: Wei Zhao
 role: PhD Student in Human-computer Interaction
 avatar_filename: avatar.jpg
 bio: My research interests include human-computer interaction, digital health
@@ -35,11 +36,10 @@ education:
     - course: Bachelor of Public Relations
       institution: Sun Yat-sen University, China
       year: ""
+email: ""
 superuser: true
 highlight_name: false
-title: Wei Zhao
-email: ""
 ---
-Hello! I’m a PhD student in the [Human-computer Interaction Group](https://cis.unimelb.edu.au/hci/) at the University of Melbourne. I'm supervised by [Associate Professor Jenny Waycott](https://www.jwaycott.com/), [Dr Ryan Kelly](https://people.eng.unimelb.edu.au/rmkelly/), and [Dr Melissa Rogerson](https://www.melissarogerson.com/). My current research topic is about designing for the social engagement of older adults. Research Interests: Human-computer Interaction, Computer-supported Cooperative Work, Social Computing, Ageing and Technology, Mixed Reality.
+Hello! I’m a first year PhD student in the [Human-computer Interaction Group](https://cis.unimelb.edu.au/hci/) at the University of Melbourne. I'm supervised by [Associate Professor Jenny Waycott](https://www.jwaycott.com/), [Dr Ryan Kelly](https://people.eng.unimelb.edu.au/rmkelly/), and [Dr Melissa Rogerson](https://www.melissarogerson.com/). My current research topic is about designing digital systems for the social engagement of older adults living independently. I'm interested in understanding people's everyday experiences of using technologies in the real world. Examples of topics I have worked on include social enrichment of older adults in aged care, evaluation of the use of VR in aged care. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
