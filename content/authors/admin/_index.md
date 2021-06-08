@@ -34,10 +34,10 @@ education:
       year: ""
     - course: Master of Information Technology (with Distinction)
       institution: The University of Melbourne, Australia
-      year: 2019
+      year: -3
     - course: Bachelor of Public Relations, Communication and Media Studies
       institution: Sun Yat-sen University, China
-      year: 2008
+      year: 1
 email: ""
 superuser: true
 highlight_name: false
