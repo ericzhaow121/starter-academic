@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: wzhao10@student.unimelb.edu.au
+phone: 0410318121
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 700 Swanston Street
+  city: Melbourne
+  region: VIC
+  postcode: '3053'
+  country: Australia
+  country_code: AUS
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
