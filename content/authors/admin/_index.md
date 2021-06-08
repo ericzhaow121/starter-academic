@@ -9,6 +9,8 @@ interests:
   - Computer-supported Cooperative Work
   - Social Computing
   - Digital Health
+  - Ageing and Technology
+  - Mixed Reality
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,10 +34,10 @@ education:
       year: ""
     - course: Master of Information Technology (with Distinction)
       institution: The University of Melbourne, Australia
-      year: ""
-    - course: Bachelor of Public Relations
+      year: 2019
+    - course: Bachelor of Public Relations, Communication and Media Studies
       institution: Sun Yat-sen University, China
-      year: ""
+      year: 2008
 email: ""
 superuser: true
 highlight_name: false
