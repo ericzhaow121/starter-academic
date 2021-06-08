@@ -41,7 +41,7 @@ projects:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: featured.jpg
 date: 2013-07-01T00:00:00Z
 url_slides: ""
