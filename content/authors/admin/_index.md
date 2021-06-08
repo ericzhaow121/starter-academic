@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Human-computer Interaction
-avatar_filename: dicfm619crm-frank-marino.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include human-computer interaction, digital health
   and social computing.
 interests:
