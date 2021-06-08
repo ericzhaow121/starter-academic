@@ -44,4 +44,4 @@ highlight_name: false
 ---
 Hello! I’m a first-year PhD student in the [Human-computer Interaction Group](https://cis.unimelb.edu.au/hci/) at the University of Melbourne. I'm supervised by [A/Prof Jenny Waycott](https://www.jwaycott.com/), [Dr Ryan Kelly](https://people.eng.unimelb.edu.au/rmkelly/), and [Dr Melissa Rogerson](https://www.melissarogerson.com/). My current research topic is about designing digital systems for the social engagement of older adults living independently. I'm interested in understanding people's everyday experiences of using technologies in the real world. Examples of topics I have worked on include exploring the social enrichment of older adults in aged care; evaluating the use of Virtual Reality technology in residential aged care settings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
